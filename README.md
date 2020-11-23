@@ -26,6 +26,7 @@
  - Vivado
 
 
-![ARDUINO](images/arduino.png "ARDUINO")
+[ARDUINO](images/arduino.png =64x64)
+![ARDUINO](images/arduino.png =64x64)
 
 
