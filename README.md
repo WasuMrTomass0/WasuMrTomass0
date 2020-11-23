@@ -12,7 +12,7 @@
  4. Other small projects
  
  ## Languages:
-|     	|        	|         	|
+| [ARDUINO]    	|        	|         	|
 |-----	|--------	|---------	|
 | C++ 	| Python 	| Verilog 	|
  
@@ -24,4 +24,8 @@
  - Eclipse
  - Arduino IDE
  - Vivado
- 
+
+
+![ARDUINO](images/arduino.png "ARDUINO")
+
+
