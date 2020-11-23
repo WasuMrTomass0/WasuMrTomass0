@@ -27,7 +27,7 @@
 
 LOL
 LOL
-![alt text][cpp]
+![cpp]
 
 LOL
 
