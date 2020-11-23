@@ -10,11 +10,12 @@
  3) SmartHome System (Raspberry Pi 4, ESP, Arduino)
  4) Other small projects
  
- ## Language and Tools:
+ ## Languages:
  * C++
  * Python
  * Verilog
  
+ ## Tools:
  * Pycharm
  * Visual Studio Community
  * Eclipse
