@@ -12,9 +12,9 @@
  4. Other small projects
  
  ## Languages:
-|  LOGO   |    LOGO    |    LOGO     |
-|-----|--------|---------|
-| C++ | Python | Verilog |
+|     	|        	|         	|
+|-----	|--------	|---------	|
+| C++ 	| Python 	| Verilog 	|
  
  ## Tools:
  - GIT
