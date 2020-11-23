@@ -17,12 +17,13 @@
 | C++ 	| Python 	| Verilog 	|
  
  ## Tools:
-|             	|               	|         	|
-|  <img src="images/pycharm.png" alt="pycharm" width="64"/>  	|  <img src="images/visualstudio.png" alt="visualstudio" width="64"/>  	| <img src="images/eclipse.png" alt="eclipse" width="64"/> 	|
+|<img src="images/pycharm.png" alt="pycharm" width="64"/>  	|  <img src="images/visualstudio.png" alt="visualstudio" width="64"/>  	| <img src="images/eclipse.png" alt="eclipse" width="64"/> 	|
 |   Pycharm   	| Visual Studio 	| Eclipse 	|
-|             	|               	|         	|
+|-------------	|---------------	|---------	|
 | <img src="images/arduino.png" alt="arduino" width="64"/>	| <img src="images/vivado.png" alt="vivado" width="64"/>	| <img src="images/git.png" alt="git" width="64"/> 	|
 | Arduino IDE 	|     Vivado    	|   GIT   	|
-|             	|               	|         	|
+|-------------	|---------------	|---------	|
 |             	| <img src="images/linux.png" alt="linux" width="64"/> 	|         	|
 |             	|     Linux     	|         	|
+|-------------	|---------------	|---------	|
+
