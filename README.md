@@ -5,10 +5,10 @@
  - 📝 I'm currently working on my thesis: *Object identification based on the fusion of data from the video stream in the visible light and infrared range using artificial intelligence*
  
  - Other projects:
- * Vision Based AI aim bot in Counter Strike Global Offensive (Tensorflow, Python)
- * Open source stairs led lights controller (Arduino, C++)
- * SmartHome System (Raspberry Pi 4, ESP, Arduino)
- * Other small projects
+ 1) Vision Based AI aim bot in Counter Strike Global Offensive (Tensorflow, Python)
+ 2) Open source stairs led lights controller (Arduino, C++)
+ 3) SmartHome System (Raspberry Pi 4, ESP, Arduino)
+ 4) Other small projects
  
  ## Language and Tools:
  * C++
