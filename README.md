@@ -7,7 +7,7 @@
  
  - *Projects*:
  1. Vision Based AI aim bot in Counter Strike Global Offensive *(Tensorflow, Python)*
- 2. Open source stairs led lights controller *(Arduino, C++)*  [Here](https://github.com/WasuMrTomass0/LedControllerStairs)
+ 2. [Open source stairs led lights controller *(Arduino, C++)*](https://github.com/WasuMrTomass0/LedControllerStairs)
  3. SmartHome System *(Raspberry Pi 4, ESP, Arduino)*
  4. Other smaller projects
  
