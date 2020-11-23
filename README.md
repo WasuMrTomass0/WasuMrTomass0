@@ -12,9 +12,9 @@
  4. Other small projects
  
  ## Languages:
-| <img src="images/cpp.png" alt="cpp" width="64"/>    	|    <img src="images/python.png" alt="python" width="64"/>    	|      <img src="images/verilog.png" alt="verilog" width="64"/>   	|
-|-----	|--------	|---------	|
 | C++ 	| Python 	| Verilog 	|
+|-----	|--------	|---------	|
+| <img src="images/cpp.png" alt="cpp" width="64"/>    	|    <img src="images/python.png" alt="python" width="64"/>    	|      <img src="images/verilog.png" alt="verilog" width="64"/>   	|
  
  ## Tools:
 |   Pycharm   	| Visual Studio 	| Eclipse 	|
