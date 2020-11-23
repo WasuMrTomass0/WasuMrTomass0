@@ -17,6 +17,8 @@
  * Verilog
  
  ## Tools:
+ * GIT
+ * Linux
  * Pycharm
  * Visual Studio Community
  * Eclipse
