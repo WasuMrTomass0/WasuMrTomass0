@@ -27,15 +27,35 @@
 
 
 ![ARDUINO](images/arduino.png =64x64)
+
+
 ![ARDUINO](images/eclipse.png =64x64)
+
+
 ![ARDUINO](images/pycharm.png =64x64)
+
+
 ![ARDUINO](images/visualstudio.png =64x64)
+
+
 ![ARDUINO](images/git.png =64x64)
+
+
 ![ARDUINO](images/vivado.png =64x64)
+
+
 ![ARDUINO](images/linux.png =64x64)
 
+
+
 ![ARDUINO](images/cpp.png =64x64)
+
+
 ![ARDUINO](images/python.png =64x64)
+
+
 ![ARDUINO](images/verilog.png =64x64)
+
+
 
 
