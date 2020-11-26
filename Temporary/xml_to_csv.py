@@ -5,10 +5,12 @@ import xml.etree.ElementTree as ET
 
 
 def xml_to_csv(path):
+  counter = 0
   xml_list = []
   for xml_file in glob.glob(path + '/*.xml'):
     try:
       tree = ET.parse(xml_file)
+      counter += 1
     except:
       print('Error', xml_file)
       continue
@@ -26,6 +28,7 @@ def xml_to_csv(path):
       xml_list.append(value)
   column_name = ['filename', 'width', 'height', 'class', 'xmin', 'ymin', 'xmax', 'ymax']
   xml_df = pd.DataFrame(xml_list, columns=column_name)
+  print(path, 'processed', counter, 'files')
   return xml_df
 
 
