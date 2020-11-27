@@ -25,10 +25,10 @@
 |    <img src="images/pycharm.png" alt="pycharm" width="64"/>     |      <img src="images/visualstudio.png" alt="visualstudio" width="64"/>         |    <img src="images/eclipse.png" alt="eclipse" width="64"/>     |    <img src="images/vivado.png" alt="vivado" width="64"/>    |      <img src="images/arduino.png" alt="arduino" width="64"/>       |  <img src="images/git.png" alt="git" width="64"/>   |   <img src="images/linux.png" alt="linux" width="64"/>    |
 
 ---
-### Me when...
-| I am coding 	| There is error in line 243 	| I am debugging 	| Everything works perfectly 	|
+### Me when I am coding in...
+| C++ 	| Python 	| I am debugging 	| Verilog 	|
 |:-----------:	|:--------------------------:	|:--------------:	|:--------------------------:	|
-|  <img src="https://i.kym-cdn.com/photos/images/original/001/879/958/fb1.gif" alt="git" width="64"/>   	|     <img src="https://media1.tenor.com/images/32ed6636b030b859e65370e24d09a0e1/tenor.gif?itemid=7292951" alt="git" width="64"/>   	|    	|     	|
+|  <img src="https://i.kym-cdn.com/photos/images/original/001/879/958/fb1.gif" alt="git" width="64"/>   	|     <img src="https://i.kym-cdn.com/photos/images/original/001/879/958/fb1.gif" alt="git" width="64"/>   	|  <img src="https://i.kym-cdn.com/photos/images/original/001/879/958/fb1.gif" alt="git" width="64"/>	|     	|
 
 ---
 
