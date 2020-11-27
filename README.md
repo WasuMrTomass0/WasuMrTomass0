@@ -13,9 +13,9 @@
  
  ## Languages:
 
-| C++ 	| Python 	| Verilog 	|
-|-----	|--------	|---------	|
-| <img src="images/cpp.png" alt="cpp" width="64"/>    	|    <img src="images/python.png" alt="python" width="64"/>    	|      <img src="images/verilog.png" alt="verilog" width="64"/>   	|
+| C++ 	| Python 	| Verilog 	|  STH |
+|-----	|--------	|---------	|----- |
+| <img src="images/cpp.png" alt="cpp" width="64"/>    	|    <img src="images/python.png" alt="python" width="64"/>    	|      <img src="images/verilog.png" alt="verilog" width="64"/>   	|  ![Alt Text](https://i.kym-cdn.com/photos/images/original/001/879/958/fb1.gif)  |
 
 
  ## Tools:
