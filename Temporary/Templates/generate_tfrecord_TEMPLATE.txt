@@ -14,13 +14,23 @@ from __future__ import absolute_import
 import os
 import io
 import pandas as pd
-import tensorflow.compat.v1 as tf
+import tensorflow
+print(tensorflow.__version__)
+if tensorflow.__version__ != '1.15.0':
+  import tensorflow.compat.v1 as tf
+  print('tensorflow.compat.v1')
+else:
+  import tensorflow as tf
+  print('tensorflow')
 
 from PIL import Image
 from object_detection.utils import dataset_util
 from collections import namedtuple, OrderedDict
 
-flags = tf.compat.v1.flags
+if tf.__version__ != 1.15:
+  flags = tf.compat.v1.flags
+else:
+  flags = tf.app.flags
 flags.DEFINE_string('csv_input', '', 'Path to the CSV input')
 flags.DEFINE_string('image_dir', '', 'Path to the image directory')
 flags.DEFINE_string('output_path', '', 'Path to output TFRecord')
