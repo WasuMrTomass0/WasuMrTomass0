@@ -51,7 +51,7 @@ with open('Templates/labelmap_TEMPLATE.txt', 'r') as token:
 # Generate text
 text = ''
 for i in range(len(classes)):
-    text += tmpl.replace('<INSERT_ID>', str(i+1)).replace('<INSERT_NAME>', classes[i]) + '\n'
+    text += tmpl.replace('<INSERT_ID>', str(i+1)).replace('<INSERT_NAME>', "'" + classes[i]) + "'" + '\n'
 
 # Save to file
 with open('labelmap.pbtxt', 'w') as token:
