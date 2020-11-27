@@ -28,13 +28,14 @@
 ### Me when...
 | I am coding 	| There is error in line 243 	| I am debugging 	| Everything works perfectly 	|
 |:-----------:	|:--------------------------:	|:--------------:	|:--------------------------:	|
-|  <img src="https://i.kym-cdn.com/photos/images/original/001/879/958/fb1.gif" alt="git" width="64"/>   	|     <img src="https://media1.tenor.com/images/32ed6636b030b859e65370e24d09a0e1/tenor.gif?itemid=7292951" alt="git" width="64"/>   	|   <img src="https://giphy.com/gifs/cat-reaction-KQ48HWui8FNIs" alt="git" width="64"/>   	|    <img src="https://thumbs.gfycat.com/CleanChubbyAphid-mobile.mp4" alt="git" width="64"/>    	|
+|  <img src="https://i.kym-cdn.com/photos/images/original/001/879/958/fb1.gif" alt="git" width="64"/>   	|     <img src="https://media1.tenor.com/images/32ed6636b030b859e65370e24d09a0e1/tenor.gif?itemid=7292951" alt="git" width="64"/>   	|    	|     	|
 
 ---
 
 <img src="https://i.kym-cdn.com/photos/images/original/001/879/958/fb1.gif" alt="git" width="64"/>
-<img src="https://gfycat.com/pl/aptyawningblowfish" alt="git" width="64"/>  
-<img src="https://giphy.com/gifs/cat-reaction-KQ48HWui8FNIs" alt="git" width="64"/>  
-<img src="https://thumbs.gfycat.com/CleanChubbyAphid-mobile.mp4" alt="git" width="64"/>
+<img src="https://i.kym-cdn.com/photos/images/original/001/879/958/fb1.gif" alt="git" width="64"/>
+<img src="https://i.kym-cdn.com/photos/images/original/001/879/958/fb1.gif" alt="git" width="64"/>
+<img src="https://i.kym-cdn.com/photos/images/original/001/879/958/fb1.gif" alt="git" width="64"/>
+
 
 
