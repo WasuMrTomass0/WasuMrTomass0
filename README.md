@@ -26,16 +26,8 @@
 
 ---
 ### Me when I am coding in...
-| C++ 	| Python 	| I am debugging 	| Verilog 	|
-|:-----------:	|:--------------------------:	|:--------------:	|:--------------------------:	|
-|  <img src="https://i.kym-cdn.com/photos/images/original/001/879/958/fb1.gif" alt="git" width="64"/>   	|     <img src="https://i.kym-cdn.com/photos/images/original/001/879/958/fb1.gif" alt="git" width="64"/>   	|  <img src="https://i.kym-cdn.com/photos/images/original/001/879/958/fb1.gif" alt="git" width="64"/>	|     	|
+| C++ 	| Python 	| Verilog 	|
+|:-----------:	|:--------------------------:	|:--------------:	|
+|  <img src="https://i.kym-cdn.com/photos/images/original/001/879/958/fb1.gif" alt="git" width="64"/>   	|     <img src="https://i.kym-cdn.com/photos/images/original/001/879/958/fb1.gif" alt="git" width="64"/>   	|  <img src="https://i.kym-cdn.com/photos/images/original/001/879/958/fb1.gif" alt="git" width="64"/>	|
 
 ---
-
-<img src="https://i.kym-cdn.com/photos/images/original/001/879/958/fb1.gif" alt="git" width="64"/>
-<img src="https://i.kym-cdn.com/photos/images/original/001/879/958/fb1.gif" alt="git" width="64"/>
-<img src="https://i.kym-cdn.com/photos/images/original/001/879/958/fb1.gif" alt="git" width="64"/>
-<img src="https://i.kym-cdn.com/photos/images/original/001/879/958/fb1.gif" alt="git" width="64"/>
-
-
-
