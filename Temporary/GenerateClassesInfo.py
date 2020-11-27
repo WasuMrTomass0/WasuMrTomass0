@@ -56,3 +56,6 @@ for i in range(len(classes)):
 # Save to file
 with open('labelmap.pbtxt', 'w') as token:
     token.write(text)
+    
+with open('label_map.pbtxt', 'w') as token:
+    token.write(text)
