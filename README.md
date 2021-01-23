@@ -9,7 +9,7 @@
  1. Vision Based AI aim bot in Counter Strike Global Offensive *(Tensorflow, Python)*
  2. [Open source stairs led lights controller *(Arduino, C++)*](https://github.com/WasuMrTomass0/LedControllerStairs)
  3. SmartHome System *(Raspberry Pi 4, ESP, Arduino)*
- 4. Tutor's Helper - Android App *(Mit App Inventor)*
+ 4. Tutor's Helper *(Mit App Inventor, Android)*
  5. Other smaller projects
  
  ## Languages:
