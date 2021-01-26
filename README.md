@@ -1,8 +1,8 @@
 ### Hi there, *Wasu* here ;D
 
 ## About me:
- - 🎓 **Automatics and Robotics** student at AGH University of Science and Technology, Cracow, Poland
- - 📝 I'm currently working on my thesis: 
+ - 🎓 Bachelor of Engineering **Automatics and Robotics** AGH University of Science and Technology, Cracow, Poland, 2021
+ - 📝 My BEng thesis: 
  ***Object identification based on the fusion of data from the video stream in the visible light and infrared range using artificial intelligence***
  
  - *Projects*:
