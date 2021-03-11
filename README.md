@@ -5,6 +5,7 @@
  - 📝 My BEng thesis: 
  ***Object identification based on the fusion of data from the video stream in the visible light and infrared range using artificial intelligence***
  - 💚🖤❤️ Currently studying: ***Intelligent Control Systems***, *AGH Master's degree*, 2021 - 2022
+ #####
  - *Projects*:
  1. Vision Based AI aim bot in Counter Strike Global Offensive *(Tensorflow, Python)*
  2. [Open source stairs led lights controller *(Arduino, C++)*](https://github.com/WasuMrTomass0/LedControllerStairs)
