@@ -4,7 +4,7 @@
  - 🎓 Bachelor of Engineering **Automatics and Robotics** AGH University of Science and Technology, Cracow, Poland, 2021
  - 📝 My BEng thesis: 
  ***Object identification based on the fusion of data from the video stream in the visible light and infrared range using artificial intelligence***
- - 💚🖤❤️ Currently studying: ***Intelligent Control Systems***, *AGH Master's degree*, 2021 - 2022 <br/>
+ - 💚🖤❤️ Currently studying: ***Intelligent Control Systems***, *AGH Master's degree*, 2021 - 2022
  <p align="center">
  Main topics: Machine Learning, Vision Systems, FPGA usage, Acceleration of algorithms.
  </p>
