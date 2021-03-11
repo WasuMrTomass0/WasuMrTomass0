@@ -10,7 +10,9 @@
  2. [Open source stairs led lights controller *(Arduino, C++)*](https://github.com/WasuMrTomass0/LedControllerStairs)
  3. SmartHome System *(Raspberry Pi 4, ESP, Arduino)*
  4. Tutor's Helper *(Mit App Inventor, Android)*
- 5. Other smaller projects
+ 5. Abandoned Object Detection System *(C++, OpenCV)* - private repo atm, TBA
+ 6. Inverted Pendulum Controller *(Matlab, Simulink)* - private repo atm, TBA
+ 7. Other smaller projects
  
  ## Languages:
 
