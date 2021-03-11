@@ -13,7 +13,7 @@
  4. Tutor's Helper *(Mit App Inventor, Android)* - To be remade in C#
  5. Abandoned Object Detection System *(C++, OpenCV)* - private repo atm, TBA
  6. Inverted Pendulum Controller *(Matlab, Simulink)* - private repo atm, TBA
- 7. Other smaller projects
+ 7. Other smaller projects: LED Cube 8x8x8, Robots, Air Cooling System and much more.
  
  ## Languages:
 
