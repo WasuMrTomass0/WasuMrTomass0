@@ -10,8 +10,8 @@
  </p>
  
  ## Are you looking for a great employee?
- - <img src="images/linkedin.png" alt="pycharm" width="16"/> Contact me via [LinkedIn](https://www.linkedin.com/in/tomasz-moleda/)
- - <img src="images/resume.png" alt="pycharm" width="16"/>Check out my [CV](https://cutt.ly/IbjGCBW)
+ - <img src="images/linkedin.png" alt="pycharm" width="32"/>  Contact me via [LinkedIn](https://www.linkedin.com/in/tomasz-moleda/)
+ - <img src="images/resume.png" alt="pycharm" width="32"/>  Check out my [CV](https://cutt.ly/IbjGCBW)
  
  ## *Projects*:
  1. Vision Based AI aim bot in Counter Strike Global Offensive *(Tensorflow, Python)*
