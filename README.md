@@ -9,6 +9,10 @@
  Main topics: Machine Learning, Vision Systems, FPGA usage, Acceleration of algorithms.
  </p>
  
+ ## About me:
+ - Contact me via [LinkedIn](https://www.linkedin.com/in/tomasz-moleda/)
+ - Check out my [CV](https://cutt.ly/IbjGCBW)
+ 
  ## *Projects*:
  1. Vision Based AI aim bot in Counter Strike Global Offensive *(Tensorflow, Python)*
  2. [Open source stairs led lights controller *(Arduino, C++)*](https://github.com/WasuMrTomass0/LedControllerStairs)
