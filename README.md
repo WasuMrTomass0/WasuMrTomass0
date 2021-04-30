@@ -9,7 +9,7 @@
  Main topics: Machine Learning, Vision Systems, FPGA usage, Acceleration of algorithms.
  </p>
  
- ## About me:
+ ## Are You hiring?
  - Contact me via [LinkedIn](https://www.linkedin.com/in/tomasz-moleda/)
  - Check out my [CV](https://cutt.ly/IbjGCBW)
  
