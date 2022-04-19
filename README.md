@@ -8,37 +8,35 @@
  <p align="center">
  Main topics: Machine Learning, Vision Systems, FPGA usage, Acceleration of algorithms.
  </p>
- 
- ## Are you looking for a great employee?
- - <img src="images/linkedin.png" alt="pycharm" width="20"/>  Contact me via [LinkedIn](https://www.linkedin.com/in/tomasz-moleda/)
- - <img src="images/resume.png" alt="pycharm" width="20"/>  Check out my [CV](https://cutt.ly/IbjGCBW)
- 
+  
  ## *Projects*:
- 1. Vision Based AI aim bot in Counter Strike Global Offensive *(Tensorflow, Python)*
- 2. [Open source stairs led lights controller *(Arduino, C++)*](https://github.com/WasuMrTomass0/LedControllerStairs)
- 3. SmartHome System *(Raspberry Pi 4, ESP, Arduino)*
- 4. Tutor's Helper *(Mit App Inventor, Android)* - To be remade in C#
+ 1. Tutor's Helper *(Mit App Inventor, Android App)*
+ 2. SmartHome System *(Raspberry Pi 4, ESP, Arduino)*
+ 3. Stairs led lights controller *(Arduino, C++)*
+ 4. Object Detection AI aimbot in Counter Strike Global Offensive *(Tensorflow, Python)*
  5. Abandoned Object Detection System *(C++, OpenCV)* - private repo atm, TBA
  6. Inverted Pendulum Controller *(Matlab, Simulink)* - private repo atm, TBA
  7. Other smaller projects: LED Cube 8x8x8, Robots, Air Cooling System and much more.
  
+ 
  ## Languages:
 
-| C++ 	| Python 	| Verilog 	|
-|-----	|--------	|---------	|
-| <img src="images/cpp.png" alt="cpp" width="64"/>    	|    <img src="images/python.png" alt="python" width="64"/>    	|      <img src="images/verilog.png" alt="verilog" width="64"/>   	|
+| VHDL 	   | Python   | C++      | TCL      |
+|:--------:|:--------:|:--------:|:--------:|
+| <img src="images/vhdl.png" alt="vhdl" width="64"/> | <img src="images/python.png" alt="python" width="64"/> | <img src="images/cpp.png" alt="cpp" width="64"/> | <img src="images/tcl.png" alt="tcl" width="64"/> |
 
 
- ## Tools:
+## Tools:
 
- | Pycharm | Visual Studio | Eclipse | Vivado | Arduino IDE | GIT | Linux |
+| Pycharm | Visual Studio | VUnit | Vivado | Arduino IDE | GIT | Linux |
 |:-------:|:-------------:|:-------:|--------|-------------|-----|-------|
 |    <img src="images/pycharm.png" alt="pycharm" width="64"/>     |      <img src="images/visualstudio.png" alt="visualstudio" width="64"/>         |    <img src="images/eclipse.png" alt="eclipse" width="64"/>     |    <img src="images/vivado.png" alt="vivado" width="64"/>    |      <img src="images/arduino.png" alt="arduino" width="64"/>       |  <img src="images/git.png" alt="git" width="64"/>   |   <img src="images/linux.png" alt="linux" width="64"/>    |
 
+
 ---
-### Me when I am coding in...
-| C++ 	| Python 	| Verilog 	|
-|:-----------:	|:--------------------------:	|:--------------:	|
-|  <img src="https://i.kym-cdn.com/photos/images/original/001/879/958/fb1.gif" alt="git" width="64"/>   	|     <img src="https://i.kym-cdn.com/photos/images/original/001/879/958/fb1.gif" alt="git" width="64"/>   	|  <img src="https://i.kym-cdn.com/photos/images/original/001/879/958/fb1.gif" alt="git" width="64"/>	|
+### *Me when I am coding in...*
+| VHDL        | Python      | C++         |
+|:-----------:|:-----------:|:-----------:|
+|  <img src="https://i.kym-cdn.com/photos/images/original/001/879/958/fb1.gif" alt="git" width="64"/>   	|  <img src="https://i.kym-cdn.com/photos/images/original/001/879/958/fb1.gif" alt="git" width="64"/>   	|  <img src="https://i.kym-cdn.com/photos/images/original/001/879/958/fb1.gif" alt="git" width="64"/>	|
 
 ---
