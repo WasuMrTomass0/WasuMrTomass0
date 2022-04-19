@@ -21,9 +21,9 @@
  
  ## Languages:
 
-| VHDL 	   | Python   | C++      | TCL      |
-|:--------:|:--------:|:--------:|:--------:|
-| <img src="images/vhdl.png" alt="vhdl" width="64"/> | <img src="images/python.png" alt="python" width="64"/> | <img src="images/cpp.png" alt="cpp" width="64"/> | <img src="images/tcl.png" alt="tcl" width="64"/> |
+| VHDL 	   | Python   | C++      |
+|:--------:|:--------:|:--------:|
+| <img src="images/vhdl.png" alt="vhdl" width="64"/> | <img src="images/python.png" alt="python" width="64"/> | <img src="images/cpp.png" alt="cpp" width="64"/> |
 
 
 ## Tools:
