@@ -1,12 +1,12 @@
 ### Hi there, *Wasu* here ;D
 
-
+<!-- 
 ## About me:
  - 🎓 Masters of Engineering **Intelligent Control Systems**, AGH University of Science and Technology, Cracow, Poland, 2022
    - 📝 thesis: ***A low-latency test platform using signal processing acceleration in an FPGA***.
  - 🎓 Bachelor of Engineering **Automatics and Robotics**, AGH University of Science and Technology, Cracow, Poland, 2021
    - 📝 thesis: ***Object identification based on the fusion of data from the video stream in the visible light and infrared range using artificial intelligence***.
-   In simple terms: Object detection using RGBD (Red-Green-Blue-Depth) video stream.
+   In simple terms: Object detection using RGBD (Red-Green-Blue-Depth) video stream. -->
 
 <!-- ## Technology -->
 <!-- 
